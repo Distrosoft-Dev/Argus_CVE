@@ -34,7 +34,7 @@ Follow these steps to get Argus CVE running on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/Argus-CVE.git](https://github.com/your-username/Argus-CVE.git)
+git clone https://github.com/Distrosoft-Dev/Argus_CVE
 cd Argus-CVE
 ```
 
